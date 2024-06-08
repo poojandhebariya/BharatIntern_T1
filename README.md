@@ -1,4 +1,4 @@
-# Bharat Intern Task 1: User Registration System with Node.js, Express.js and MongoDB
+#User Registration System with Node.js, Express.js and MongoDB
 
 Welcome to my Bharat Intern Task 1 repository! 🚀 
 
