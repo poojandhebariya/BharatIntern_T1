@@ -1,6 +1,6 @@
-#User Registration System with Node.js, Express.js and MongoDB
+# User Registration System with Node.js, Express.js and MongoDB
 
-Welcome to my Bharat Intern Task 1 repository! 🚀 
+Welcome to my repository! 🚀 
 
 In this assignment, I've crafted a robust user registration system using MongoDB as the database, Express.js for the server, and Node.js as the runtime with JWT for user authentication. Below, you'll find essential details about the technologies used, key features, achievements, instructions to get started, and more.
 
@@ -42,14 +42,5 @@ We welcome contributions from other students and developers to improve and enhan
 
 5. Create a pull request to the original repository, explaining your changes and why they should be merged.
 
-## Acknowledgements
-
-A big thank you to [Bharat Intern](https://www.linkedin.com/company/bharat-intern/) for the opportunity to work on this project!
-
-## Connect with Me
-
-Let's connect! Feel free to explore the app and provide your valuable feedback or suggestions. Your insights are highly appreciated and contribute to ongoing improvements.
-
-- [LinkedIn](https://www.linkedin.com/in/mugundhjb/)
 
 Happy coding! 🚀
