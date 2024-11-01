@@ -28,19 +28,6 @@ In this assignment, I've crafted a robust user registration system using MongoDB
 4. Install dependencies using `npm install`.
 5. Start the application with `npm start`.
 
-## Contributing
-
-We welcome contributions from other students and developers to improve and enhance this website. If you'd like to contribute, please follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix.
-
-3. Make your changes and commit them with a descriptive commit message.
-
-4. Push your changes to your fork.
-
-5. Create a pull request to the original repository, explaining your changes and why they should be merged.
 
 
 Happy coding! 🚀
